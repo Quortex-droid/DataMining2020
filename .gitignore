@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 week5/creditcard.csv
+week6/creditcard.csv
